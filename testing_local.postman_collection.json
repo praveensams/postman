@@ -1,0 +1,32 @@
+{
+	"info": {
+		"_postman_id": "214e3ae7-cc7f-45d7-8ce5-88e81cef36c7",
+		"name": "testing_local",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http:// 192.168.33.120:6060",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http:// 192.168.33.120:6060",
+					"protocol": "http",
+					"host": [
+						" 192",
+						"168",
+						"33",
+						"120"
+					],
+					"port": "6060"
+				}
+			},
+			"response": []
+		}
+	]
+}
